@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import RecipeDescription from './components/Description';
 import RecipeIngredients from './components/Ingredients';
@@ -9,9 +8,9 @@ function App() {
     <div className="App">
       <div className="recipePhotoBlock">
         <RecipePhoto />
-        <div className="recipePhotoBlock"> 
+        <div className="recipePhotoBlock">
           <RecipeDescription />
-          <RecipeIngredients  />
+          <RecipeIngredients />
         </div>
       </div>
     </div>
