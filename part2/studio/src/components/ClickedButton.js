@@ -1,5 +1,12 @@
 function ClickedButton() {
-  return;
+  function handleClick() {
+    alert("You have removed this pin.");
+  }
+  return (
+    <button id="clickedButton" onClick={handleClick}>
+      Saved
+    </button>
+  );
 }
 
 export default ClickedButton;

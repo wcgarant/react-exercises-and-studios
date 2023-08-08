@@ -1,17 +1,17 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Pasta with Red Pepper and Ricotta",
+     "author": "Rachel Roddy",
+     "description": "Pasta in a pepper sauce (as hot as you like it) and topped with a slick of ricotta cream – it’s devilishly good.",
+     "website": "https://www.theguardian.com/food/2023/aug/07/pasta-red-pepper-and-ricotta-recipe-rachel-roddy",
+     "recipeImage": "https://i.guim.co.uk/img/media/c4afb329061361638fa8c5b2eb210c28a4cb8785/0_816_2448_2448/master/2448.jpg?width=700&dpr=2&s=none",
+     "authorImage": "https://i.guim.co.uk/img/uploads/2018/01/29/Rachel_Roddy,_L.png?width=140&dpr=2&s=none",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+       "2 large red peppers",
+       "1 large red onion",
+       "200g ricotta",
+       "2 tbsp grated parmesan",
+       "500g pasta, such as penne, mezze maniche, rigatoni, paccheri, fusilli"
      ]
    }
  ]
