@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "Easy white bread",
+      "ingredients": ["white flour", "salt", "yeast", "water", "olive oil"],
+      "photoUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/bread-2f06401.jpg?quality=90&webp=true&fit=700,350",
+      "alt": "Sliced white bread"
+    },
+    {
+      "name": "Tiger bread",
+      "ingredients": [
+        "white flour",
+        "sugar",
+        "salt",
+        "yeast",
+        "sesame oil"
+      ],
+      "photoUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/tiger_bread-dacb943.jpg?quality=90&webp=true&fit=700,350",
+      "alt": "Tiger bread with butter and jam"
+    },
+    {
+      "name": "Classic white loaf",
+      "ingredients": ["white flour", "salt", "yeast", "water", "oiled pan"],
+      "photoUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/bread_3-e239c8b.jpg?quality=90&webp=true&fit=700,350",
+      "alt": "Sliced classic loaf"
+    },
+    {
+      "name": "Easy-bake bread",
+      "ingredients": ["bread flour", "salt", "yeast", "honey", "seeds"],
+      "photoUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/bread_2-27440bf.jpg?quality=90&webp=true&fit=700,350",
+      "alt": "Seeded easy-bake bread"
+    },
+    {
+      "name": "Rye bread",
+      "ingredients": ["rye flour", "salt", "yeast", "water", "olive oil"],
+      "photoUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/rye-963dc00.jpg?quality=90&webp=true&fit=700,350",
+      "alt": "Sliced rye bread"
+    }
+  ]
+}
