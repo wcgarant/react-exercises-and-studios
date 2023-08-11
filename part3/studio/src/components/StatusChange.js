@@ -24,6 +24,7 @@ export default function StatusChange () {
 
          <p>{notes}</p>
 
+         <p>{!recipeStatus && <div>I haven't tried this recipe yet!</div>}</p>
          <p>{recipeStatus && <div>I have tried this recipe!</div>}</p>
       </div>
    );
